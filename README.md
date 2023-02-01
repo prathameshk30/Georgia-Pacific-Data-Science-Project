@@ -1,2 +1,2 @@
-# Georgia-Pacific-Data-Science-Project-
+# Georgia-Pacific-Data-Science-Project
 Internship Project
