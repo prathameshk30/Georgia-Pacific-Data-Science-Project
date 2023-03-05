@@ -5,13 +5,7 @@ Designing a complete Machine Learning pipeline and deploying in local production
 
 ## Key Technologies used:-
 
-Python (selenium, ETL)
-
-AWS Sagemaker
-
-AWS S3
-
-Tableau
+Python (selenium, ETL) ,Alteryx,  AWS Sagemaker, AWS S3, Tableau
 
 ## ML Pipeline Architecture
 
