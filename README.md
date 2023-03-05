@@ -5,7 +5,7 @@ Designing a complete Machine Learning pipeline and deploying in local production
 
 ## Key Technologies used:-
 
-Python
+Python (selenium, ETL)
 
 AWS Sagemaker
 
