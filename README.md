@@ -11,7 +11,7 @@ Python (selenium, ETL) ,Alteryx,  AWS Sagemaker, AWS S3, Tableau
 
 <img src="https://user-images.githubusercontent.com/89546195/222983530-13f7393c-3c21-4598-a28b-e027fb727bed.png" width=80% height=80%>
 
-## Methodlogy To build Models:-
+## Methodlogy:-
 
 ### Goal:- 
 To design a Machine learning pipeline (Stratum Regional Models) that can utilize the consumer data that GP buys from Kroger (84.15) for better pricing actions bringing the demographic information into picture. Currently pricing team utilizes the PRISM Model output that are built using  IRI, Nielsen data. There is no demographic information in the model output. The Stratum Regional model will help to assist the PRISM model output by adding an extra layer of demographic information to it. 
