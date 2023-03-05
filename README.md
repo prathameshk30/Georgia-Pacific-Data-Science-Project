@@ -15,5 +15,5 @@ Tableau
 
 ## ML Pipeline Architecture
 
-<src="https://user-images.githubusercontent.com/89546195/222983530-13f7393c-3c21-4598-a28b-e027fb727bed.png width=60% height=50%>
+<"https://user-images.githubusercontent.com/89546195/222983530-13f7393c-3c21-4598-a28b-e027fb727bed.png width=60% height=50%>
 
