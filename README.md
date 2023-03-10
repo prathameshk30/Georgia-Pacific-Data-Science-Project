@@ -14,6 +14,11 @@ Python (selenium, ETL) ,Alteryx,  AWS Sagemaker, AWS S3, Tableau
 ## Mistake:-
 Didn't consider the interaction between GP SKU & competitor. Therefore had to rebuild the pipeline after feature engineering in sagemaker to include the interaction variable. 
 
+## Key Learning:-
+1) How to create a data pipeline for running ML model. Understood the importance of a robust ETL process to streamline the data ingestion process.
+2) How to work in AWS Sagemaker enviorment. Learnt technologies to use predefined template such as preprocessing, training & model deployement using AWS Sagemaker.
+
+
 ## Methodlogy:-
 
 ### Goal:- 
